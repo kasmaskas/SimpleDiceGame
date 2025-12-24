@@ -1,0 +1,20 @@
+# Derleme çıktıları (Build outputs)
+bin/
+obj/
+
+# Visual Studio yerel ayarları
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# NuGet Paketleri
+packages/
+*.nuget.props
+*.nuget.targets
+
+# İşletim sistemi dosyaları
+Thumbs.db
+ehthumbs.db
+Desktop.ini

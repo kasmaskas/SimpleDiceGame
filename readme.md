@@ -2,6 +2,11 @@
 
 A simple and interactive **C# Console Application** where players roll three dice and aim for a high score based on specific bonus rules. This project demonstrates core programming logic and data structure management in .NET.
 
+### 🚀 Latest Update
+- **[DEC 27, 2025]** - **UX & UI Improvements:** Added more descriptive feedback messages and improved console readability using strategic line breaks.
+- **[DEC 27, 2025]** - **Language Localization:** The entire game interface has been unified to English for a more professional feel.
+- **[DEC 27, 2025]** - **Code Cleanup:** Refactored the logic flow and formatting to follow cleaner coding standards.
+
 ## 🚀 How It Works
 
 The game prompts the player to roll three separate dice. The final result is calculated by adding the face values of the dice plus any earned bonuses.
